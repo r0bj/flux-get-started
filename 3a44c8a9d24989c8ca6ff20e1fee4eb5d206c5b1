@@ -1,0 +1,1 @@
+{"jobID":"2f702433-3d21-f285-8efd-618a478283fb","spec":{"type":"policy","cause":{"Message":"no go","User":"rob \u003crob@unx.pl\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"no go","locked_user":"rob \u003crob@unx.pl\u003e"},"remove":{}}}},"result":null}
