@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
         - name: TEST1
-         value: test2
+          value: test2
         livenessProbe:
           httpGet:
             path: /healthz
