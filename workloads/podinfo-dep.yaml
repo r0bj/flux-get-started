@@ -10,6 +10,9 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
     fluxcd.io/tag.podinfod: semver:~3.1
+    fluxcd.io/locked: 'true'
+    fluxcd.io/locked_msg: no go
+    fluxcd.io/locked_user: rob <rob@unx.pl>
 spec:
   strategy:
     rollingUpdate:
